@@ -50,9 +50,9 @@ This data is not displayed on the page.
 
 |   Tag    |                                           Description                                           |
 |:--------:|:-----------------------------------------------------------------------------------------------:|
-| <title>  |         Defines title of document for browser tab, favourites and search engine results         |
+| <title>  |        Defines title of document for browser tab, favourites and search engine results          |
 | <style>  |                          Defines style information about this document                          |
 |  <link>  |                    Defines where external style sheets should be linked from                    |
-|  <meta>  |        Specifies the page’s character set, description, keywords, author, viewport, etc         |
+|  <meta>  |        Specifies the page’s character set, description, keywords, author, viewport, etc.        |
 | <script> | Defines client-side JavaScript (although more commonly included as last element of (**<body>**) |
 |  <base>  |                  Specifies base URL and target for all relative URLs in a page                  |
