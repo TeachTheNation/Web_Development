@@ -35,7 +35,7 @@ Have a look at the below examples of how to declare a DTD:
 
 **HTML 4 Transitional**
 ```html
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html4/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" http://www.w3.org/TR/REC-html4/loose.dtd">
 ```
 
 **HTML 5**
