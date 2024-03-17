@@ -49,7 +49,6 @@ The **<head>** tag is used to define metadata (data about the data) for a HTML d
 This data is not displayed on the page.
 
 |   Tag    |                                           Description                                           |
-|:--------:|:-----------------------------------------------------------------------------------------------:|
 | <title>  |         Defines title of document for browser tab, favourites and search engine results         |
 | <style>  |                          Defines style information about this document                          |
 |  <link>  |                    Defines where external style sheets should be linked from                    |
